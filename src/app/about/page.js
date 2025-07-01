@@ -9,6 +9,7 @@ export default function AboutPage() {
       <AboutServiceArea />
       <AboutVisionMission />
       <AboutValues />
+      <h1>Aditya</h1>
     </div>
   );
 }
